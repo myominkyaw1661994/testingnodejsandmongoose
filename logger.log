@@ -1,0 +1,73 @@
+{"level":"error","message":"listen EACCES: permission denied test"}
+{"level":"error","message":"listen EACCES: permission denied test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\" Mon Apr 20 2020 10:56:17 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Genre validation failed: name: Path `name` (`gen`) is shorter than the minimum allowed length (5). Mon Apr 20 2020 11:43:37 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"unsupported charset \"UTF-8\" Wed Apr 22 2020 12:20:12 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"FATAL ERROR: jwtPrivateKye is not defined"}
+{"level":"error","message":"FATAL ERROR: jwtPrivateKye is not defined"}
+{"level":"error","message":"Cannot set headers after they are sent to the client Wed Apr 22 2020 13:47:17 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Cannot set headers after they are sent to the client Wed Apr 22 2020 13:47:37 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Cannot set headers after they are sent to the client Wed Apr 22 2020 13:47:37 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Cannot set headers after they are sent to the client Wed Apr 22 2020 13:47:37 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Cannot set headers after they are sent to the client Wed Apr 22 2020 13:47:37 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Cannot set headers after they are sent to the client Wed Apr 22 2020 14:04:07 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Cannot set headers after they are sent to the client Wed Apr 22 2020 14:04:07 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Cannot set headers after they are sent to the client Wed Apr 22 2020 14:04:07 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Cannot set headers after they are sent to the client Wed Apr 22 2020 14:04:07 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Cannot read property 'dateReturn' of null Wed Apr 22 2020 14:24:08 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Cannot read property 'dateReturn' of null Wed Apr 22 2020 14:24:08 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Cannot read property 'dateReturn' of null Wed Apr 22 2020 14:25:01 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Cannot read property 'dateReturn' of null Wed Apr 22 2020 14:25:16 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Cannot read property 'dateReturn' of null Wed Apr 22 2020 14:25:16 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Customer validation failed: isGold: Cast to Boolean failed for value \"myominkyaw\" at path \"isGold\" Wed Apr 22 2020 15:11:43 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Customer validation failed: isGold: Cast to Boolean failed for value \"myominkyaw\" at path \"isGold\" Wed Apr 22 2020 15:11:43 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Customer validation failed: isGold: Cast to Boolean failed for value \"myominkyaw\" at path \"isGold\" Wed Apr 22 2020 15:11:43 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Joi.objectId(...).require is not a function Wed Apr 22 2020 16:50:25 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Joi.objectId(...).require is not a function Wed Apr 22 2020 16:50:25 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Joi.objectId(...).require is not a function Wed Apr 22 2020 16:57:46 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Joi.string(...).require is not a function Wed Apr 22 2020 16:58:31 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Joi.string(...).require is not a function Wed Apr 22 2020 16:58:31 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Invalid status code: 40 Wed Apr 22 2020 16:59:15 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Invalid status code: 40 Wed Apr 22 2020 16:59:15 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Invalid status code: 40 Wed Apr 22 2020 16:59:15 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Invalid status code: 40 Wed Apr 22 2020 16:59:15 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Customer validation failed: isGold: Cast to Boolean failed for value \"powerranger\" at path \"isGold\" Wed Apr 22 2020 17:05:53 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Customer validation failed: isGold: Cast to Boolean failed for value \"powerranger\" at path \"isGold\" Wed Apr 22 2020 17:05:53 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Customer validation failed: isGold: Cast to Boolean failed for value \"powerranger\" at path \"isGold\" Wed Apr 22 2020 17:05:53 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Customer validation failed: isGold: Cast to Boolean failed for value \"powerranger\" at path \"isGold\" Wed Apr 22 2020 17:05:53 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Customer validation failed: isGold: Cast to Boolean failed for value \"powerranger\" at path \"isGold\" Wed Apr 22 2020 17:11:43 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Customer validation failed: isGold: Cast to Boolean failed for value \"powerranger\" at path \"isGold\" Wed Apr 22 2020 17:11:43 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Customer validation failed: isGold: Cast to Boolean failed for value \"powerranger\" at path \"isGold\" Wed Apr 22 2020 17:11:43 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Customer validation failed: isGold: Cast to Boolean failed for value \"powerranger\" at path \"isGold\" Wed Apr 22 2020 17:11:43 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Customer validation failed: isGold: Cast to Boolean failed for value \"powerranger\" at path \"isGold\" Wed Apr 22 2020 17:11:43 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Customer validation failed: isGold: Cast to Boolean failed for value \"powerranger\" at path \"isGold\" Wed Apr 22 2020 17:11:43 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Customer validation failed: isGold: Cast to Boolean failed for value \"powerranger\" at path \"isGold\" Wed Apr 22 2020 17:13:46 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Invalid status code: 40 Wed Apr 22 2020 17:13:46 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Invalid status code: 40 Wed Apr 22 2020 17:13:46 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Assignment to constant variable. Wed Apr 22 2020 19:50:22 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"customerId is not defined Wed Apr 22 2020 20:10:41 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"customerId is not defined Wed Apr 22 2020 20:10:41 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"customerId is not defined Wed Apr 22 2020 20:10:41 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"customerId is not defined Wed Apr 22 2020 20:14:29 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Invalid or unexpected token"}
+{"level":"error","message":"customerId is not defined Wed Apr 22 2020 20:16:16 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"validate is not defined Thu Apr 23 2020 11:53:08 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"validate is not defined Thu Apr 23 2020 11:53:08 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"validate is not defined Thu Apr 23 2020 11:53:08 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"validate is not defined Thu Apr 23 2020 11:53:08 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"validate is not defined Thu Apr 23 2020 11:53:08 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"validate is not defined Thu Apr 23 2020 11:53:08 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"validate is not defined Thu Apr 23 2020 11:53:08 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"validate is not defined Thu Apr 23 2020 11:53:08 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"validate is not defined Thu Apr 23 2020 11:53:08 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"validate is not defined Thu Apr 23 2020 11:53:08 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Joi is not defined Thu Apr 23 2020 11:53:52 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Joi is not defined Thu Apr 23 2020 11:53:52 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Joi is not defined Thu Apr 23 2020 11:53:52 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Joi is not defined Thu Apr 23 2020 11:53:52 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Joi is not defined Thu Apr 23 2020 11:53:52 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Joi is not defined Thu Apr 23 2020 11:53:52 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Joi is not defined Thu Apr 23 2020 11:53:52 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Joi is not defined Thu Apr 23 2020 11:53:52 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Joi is not defined Thu Apr 23 2020 11:53:52 GMT+0630 (Myanmar Time)"}
+{"level":"error","message":"Joi is not defined Thu Apr 23 2020 11:53:52 GMT+0630 (Myanmar Time)"}
